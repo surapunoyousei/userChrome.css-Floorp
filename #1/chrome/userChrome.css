@@ -1,0 +1,3 @@
+#navigator-toolbox :is(.toolbarbutton-1, toolbarbutton.bookmark-item:not(.subviewbutton)), #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton), #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton) {
+    font-size: 13px !important;
+  }
